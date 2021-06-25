@@ -8,10 +8,7 @@
     box-sizing: border-box;
     
 }
-html{
-    scroll-behavior: smooth ;
 
-}
 .max-width{
     max-width: 1300px;
     padding: 0px   0px;
@@ -75,7 +72,7 @@ html{
     cursor: pointer;
     display: none;
 }
-
+/*
 .scroll-up-btn{
     position: fixed;
     height:45px;
@@ -100,7 +97,7 @@ html{
     opacity: 1;
     pointer-events: auto;  
 }
-
+*/
 /* home section styling */
 
 
